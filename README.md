@@ -44,15 +44,6 @@ cms-api 为前后端分离的博客管理系统。
 - [x] 我的博客前端界面（知道地址后无需登录就可以进入）
 
 
-
-### 目录结构
-
-演示地址：http://blog.caihp.top （自己服务器只开放部分功能，想要查看全部功能，请copy代码在自己的电脑上看）
-
-用户名： test
-
-密码：123456
-
 ## 界面截图
 
 **登录页**
@@ -73,25 +64,17 @@ cms-api 为前后端分离的博客管理系统。
 
 ![article-type](http://cdn.caihp.top/egg-cms/other/article-type.png)
 
-
-
 **博客管理 > 友情链接**
 
 ![friendly-link](http://cdn.caihp.top/egg-cms/other/friendly-link.png)
 
-
-
 **系统管理 > 用户管理**
 
-![userManagement](http://cdn.caihp.top/egg-cms/other/userManagement.png)
-
-
+![user-Management](http://cdn.caihp.top/egg-cms/other/userManagement.png)
 
 **系统管理 > 角色管理**
 
 ![roleManagement](http://cdn.caihp.top/egg-cms/other/roleManagement.png)
-
-
 
 **系统管理 > 菜单管理**
 
