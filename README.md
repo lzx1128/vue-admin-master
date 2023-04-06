@@ -10,21 +10,17 @@ cms-api 为前后端分离的博客管理系统。
 
 前端技术栈：vue全家桶 + axios + elementUI + markdown编辑器等
 
-后端项目地址：https://github.com/caiheping/egg-cms
+后端项目地址：https://github.com/lzx1128/egg-admin-master
 
 ## 项目运行
 
 ### 后端项目运行
 
-请移到：https://github.com/caiheping/egg-cms
+请移到：https://github.com/lzx1128/egg-admin-master
 
 ### 前端项目运行
 
-> git clone https://github.com/caiheping/vue-cms.git
->
-> 如果clone代码慢可以clone码云的仓库
->
-> git clone https://gitee.com/caiheping/vue-cms.git
+> git clone https://github.com/lzx1128/vue-admin-master.git
 >
 > cd ./vue-cms
 >
